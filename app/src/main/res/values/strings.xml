@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging Library Example</string>
+    <string name="poster_content_description">Image of movie poster.</string>
+</resources>

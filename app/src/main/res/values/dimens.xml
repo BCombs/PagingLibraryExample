@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018 - Bill Combs
+  -->
+
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="movie_list_margin">5dp</dimen>
+</resources>
