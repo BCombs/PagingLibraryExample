@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2018 - Bill Combs
+ */
+
 package com.billcombsdevelopment.paginglibraryexample;
 
 import android.arch.lifecycle.Observer;
@@ -41,6 +45,10 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.setAdapter(movieAdapter);
     }
 
+    /**
+     * Determines how many columns the GridLayout should have based poster width and screen size
+     * @return int - number of columns
+     */
     private int getSpanCount() {
         // Width of movie poster in pixels
         int posterWidth = 500;
