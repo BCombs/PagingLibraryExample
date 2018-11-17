@@ -2,7 +2,7 @@
  * Copyright (c) 2018 - Bill Combs
  */
 
-package com.billcombsdevelopment.paginglibraryexample.repository;
+package com.billcombsdevelopment.paginglibraryexample.network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

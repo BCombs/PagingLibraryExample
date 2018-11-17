@@ -2,9 +2,8 @@
  * Copyright (c) 2018 - Bill Combs
  */
 
-package com.billcombsdevelopment.paginglibraryexample.repository;
+package com.billcombsdevelopment.paginglibraryexample.network;
 
-import com.billcombsdevelopment.paginglibraryexample.BuildConfig;
 import com.billcombsdevelopment.paginglibraryexample.model.MovieResponse;
 
 import retrofit2.Call;

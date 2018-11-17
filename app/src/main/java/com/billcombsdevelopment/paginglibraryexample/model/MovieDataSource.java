@@ -8,7 +8,7 @@ import android.arch.paging.PageKeyedDataSource;
 import android.support.annotation.NonNull;
 
 import com.billcombsdevelopment.paginglibraryexample.BuildConfig;
-import com.billcombsdevelopment.paginglibraryexample.repository.RetrofitClient;
+import com.billcombsdevelopment.paginglibraryexample.network.RetrofitClient;
 
 import retrofit2.Call;
 import retrofit2.Callback;
